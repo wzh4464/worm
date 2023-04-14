@@ -10,6 +10,7 @@ def get_sub_conference_urls(conference_url):
             for a in soup.find_all("a", href=True) if "conf" in a["href"]]
     return urls
 
+
 # 读取csv文件并存储为pandas dataframe
 df = pd.read_csv('conferences.csv')
 
@@ -19,20 +20,23 @@ for index, row in df.iterrows():
     conf_abbr = row['abbreviation']
     conf_url = row['url']
 
-    sub_url = get_sub_conference_urls(conf_url)
+    # 获取主会议页面上所有子会议页面的链接
+    sub_urls = get_sub_conference_urls(conf_url)
 
-    for url in sub_url:
+    # 遍历每个子会议页面
+    for sub_url in sub_urls:
         # 发送HTTP请求获取网页内容
-        response = requests.get(url)
+        response = requests.get(sub_url)
         # 解析HTML
         soup = BeautifulSoup(response.text, 'html.parser')
-        print(soup)
-        # 在HTML中查找所有标题，并保存包含关键词的标题
+
+        # 在XML文档中查找所有包含关键词的标题，并保存到列表中
         titles = []
-        for h in soup.find_all('h4'):
-            # 白色输出，如果包含关键字，则使用红色输出
-            if 'unlearn' in h.text.lower():
-                print('\033[31m' + h.text + '\033[0m')
-                titles.append(h.text)
-            else:
-                print(h.text)
+        for hit in soup.find_all('hit'):
+            title = hit.find('title')
+            if title and 'unlearn' in title.text.lower():
+                titles.append(title.text.strip())
+
+        # 如果找到了包含关键词的标题，打印出来
+        if len(titles) > 0:
+            print(f"{conf_abbr}: {sub_url}: {', '.join(titles)}")
