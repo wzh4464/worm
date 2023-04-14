@@ -1,28 +1,33 @@
-title,conf_abbr,subconf_abbr
-Machine Unlearning of Features and Labels.,2023,ndss
-Hard to Forget: Poisoning Attacks on Certified Machine Unlearning.,2022,aaai
-Graph Unlearning.,2022,ccs
-Efficient Two-stage Model Retraining for Machine Unlearning.,2022,cvpr
-Deep Unlearning via Randomized Conditionally Independent Hessians.,2022,cvpr
-Skin Deep Unlearning: Artefact and Instrument Debiasing in the Context of Melanoma Classification.,2022,icml
-ARCANE: An Efficient Architecture for Exact Machine Unlearning.,2022,ijcai
-Unlearning Protected User Attributes in Recommendations with Adversarial Training.,2022,sigir
-On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning.,2022,uss
-Recommendation Unlearning.,2022,www
-Federated Unlearning via Class-Discriminative Pruning.,2022,www
-When Machine Unlearning Jeopardizes Privacy.,2021,ccs
-Machine Unlearning for Random Forests.,2021,icml
-Adaptive Machine Unlearning.,2021,nips
-Remember What You Want to Forget: Algorithms for Machine Unlearning.,2021,nips
-HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning.,2021,sigmod
-Machine Unlearning.,2021,sp
-From SPMRL to NMRL: What Did We Learn (and Unlearn) in a Decade of Parsing Morphologically-Rich Languages (MRLs)?,2020,acl
-Variational Bayesian Unlearning.,2020,nips
-Lifelong Anomaly Detection Through Unlearning.,2019,ccs
-Efficient Repair of Polluted Machine Learning Systems via Causal Unlearning.,2018,ccs
-Unlearn What You Have Learned: Adaptive Crowd Teaching with Exponentially Decayed Memory Learners.,2018,kdd
-Towards Making Systems Forget with Machine Unlearning.,2015,sp
-Unlearning from Demonstration.,2013,ijcai
-The Margin Perceptron with Unlearning.,2010,icml
-Linking Motor Learning to Function Approximation: Learning in an Unlearnable Force Field.,2001,nips
-Some results on convergent unlearning algorithm.,1995,nips
+Machine unlearning,… IEEE Symposium on …,2021
+Towards making systems forget with machine unlearning,2015 IEEE symposium on security and privacy,2015
+The acquisition of the dative alternation: Unlearning overgeneralizations,Cognition,1984
+Lifelong anomaly detection through unlearning,Proceedings of the 2019 ACM …,2019
+Machine unlearning for random forests,International Conference on Machine …,2021
+Zero-shot machine unlearning,IEEE Transactions on …,2023
+Unlearning before creating new knowledge: A cognitive process.,Proceedings of the 50th Hawaii …,2017
+Hedgecut: Maintaining randomised trees for low-latency machine unlearning,Proceedings of the 2021 …,2021
+Machine unlearning: Linear filtration for logit-based classifiers,Machine Learning,2022
+Graph unlearning,Proceedings of the …,2022
+Organisational unlearning, organisational flexibility and innovation capability: An empirical study of SMEs in China,International Journal of …,2013
+Federated unlearning for on-device recommendation,Proceedings of the …,2023
+Internal marketing, innovation and performance in business services firms: the role of organizational unlearning,International Journal of …,2012
+Unlearning gender—Toward a critical communication trans pedagogy,Communication Teacher,2019
+Deep unlearning via randomized conditionally independent hessians,Proceedings of the IEEE …,2022
+Efficient two-stage model retraining for machine unlearning,Proceedings of the IEEE/CVF Conference …,2022
+Hard to forget: Poisoning attacks on certified machine unlearning,Proceedings of the AAAI …,2022
+Building Organisational Agility Through an Unlearning Context1,European Conference on …,2014
+Efficient repair of polluted machine learning systems via causal unlearning,Proceedings of the 2018 …,2018
+Balancing technology and physician–patient knowledge through an unlearning context,International journal of …,2011
+Federated unlearning via class-discriminative pruning,Proceedings of the ACM Web Conference …,2022
+Computer System Unlearning in Individuals,2015 48th Hawaii International Conference on …,2015
+Pictorial recognition as an unlearned ability: A study of one child's performance,the american Journal of Psychology,1962
+Unlearn what you have learned: Adaptive crowd teaching with exponentially decayed memory learners,Proceedings of the 24th ACM SIGKDD …,2018
+Learn to Forget: Machine Unlearning Via Neuron Masking,IEEE Transactions on …,2022
+Near-Optimal Task Selection for Meta-Learning with Mutual Information and Online Variational Bayesian Unlearning,International Conference on …,2022
+Label‐only membership inference attacks on machine unlearning without dependence of posteriors,International Journal of …,2022
+Unlearning Protected User Attributes in Recommendations with Adversarial Training,Proceedings of the 45th …,2022
+Linking unlearning and relational capital through organisational relearning,International Journal of …,2007
+Components of change in the evolution of learning and unlearned preference,Proceedings of the Royal …,2009
+Understanding how organizational culture typology relates to organizational unlearning and innovation capabilities,Journal of the …,2019
+Unlearning/Learning Organizations–The Role of Mindset,Proceedings of the 50th …,2006
+Linking unlearning with the intention to recommend through destination image,International Journal of …,2023
