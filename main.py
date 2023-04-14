@@ -55,7 +55,7 @@ for publ in result_json['result']['hits']['hit']:
     subconf_abbr = key_parts[1]
     # if match select conf
     if [conf_abbr, subconf_abbr] in select_conf:
-        result.append([title, conf_abbr, subconf_abbr])
+        result.append([title, publ['info']['year'], subconf_abbr])
 
 # save result to a result.csv
 result_df = pd.DataFrame(result, columns=['title', 'conf_abbr', 'subconf_abbr'])
