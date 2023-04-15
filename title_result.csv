@@ -1,0 +1,28 @@
+title,year,conf
+Machine Unlearning of Features and Labels.,2023,ndss
+Hard to Forget: Poisoning Attacks on Certified Machine Unlearning.,2022,aaai
+Graph Unlearning.,2022,ccs
+Efficient Two-stage Model Retraining for Machine Unlearning.,2022,cvpr
+Deep Unlearning via Randomized Conditionally Independent Hessians.,2022,cvpr
+Skin Deep Unlearning: Artefact and Instrument Debiasing in the Context of Melanoma Classification.,2022,icml
+ARCANE: An Efficient Architecture for Exact Machine Unlearning.,2022,ijcai
+Unlearning Protected User Attributes in Recommendations with Adversarial Training.,2022,sigir
+On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning.,2022,uss
+Recommendation Unlearning.,2022,www
+Federated Unlearning via Class-Discriminative Pruning.,2022,www
+When Machine Unlearning Jeopardizes Privacy.,2021,ccs
+Machine Unlearning for Random Forests.,2021,icml
+Adaptive Machine Unlearning.,2021,nips
+Remember What You Want to Forget: Algorithms for Machine Unlearning.,2021,nips
+HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning.,2021,sigmod
+Machine Unlearning.,2021,sp
+From SPMRL to NMRL: What Did We Learn (and Unlearn) in a Decade of Parsing Morphologically-Rich Languages (MRLs)?,2020,acl
+Variational Bayesian Unlearning.,2020,nips
+Lifelong Anomaly Detection Through Unlearning.,2019,ccs
+Efficient Repair of Polluted Machine Learning Systems via Causal Unlearning.,2018,ccs
+Unlearn What You Have Learned: Adaptive Crowd Teaching with Exponentially Decayed Memory Learners.,2018,kdd
+Towards Making Systems Forget with Machine Unlearning.,2015,sp
+Unlearning from Demonstration.,2013,ijcai
+The Margin Perceptron with Unlearning.,2010,icml
+Linking Motor Learning to Function Approximation: Learning in an Unlearnable Force Field.,2001,nips
+Some results on convergent unlearning algorithm.,1995,nips

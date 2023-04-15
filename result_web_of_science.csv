@@ -1,3 +1,4 @@
+year,conf,title
 2022,CVPR,Deep Unlearning via Randomized Conditionally Independent Hessians
 2022,USENIX Security Symposium,Poison Forensics: Traceback of Data Poisoning Attacks in Neural Networks
 2022,WWW,Federated Unlearning via Class-Discriminative Pruning
@@ -5,3 +6,10 @@
 2021,CCS,When Machine Unlearning Jeopardizes Privacy
 2021,AAAI,Amnesiac Machine Learning
 2021,SIGMOD Conference,HEDGECUT: Maintaining Randomised Trees for Low-Latency Machine
+2020,ICML,Invertible generative models for inverse problems: mitigating
+2020,AAAI,Privacy Enhanced Multimodal Neural Representations for Emotion
+2019,IEEE Symposium on Security and Privacy,Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural
+2018,AsiaCCS,Efficient Repair of Polluted Machine Learning Systems via Causal
+2018,KDD,Unlearn What You Have Learned: Adaptive Crowd Teaching with
+2016,IEEE Symposium on Security and Privacy Workshops,An Incremental Learner for Language-Based Anomaly Detection in XML
+1995,IEEE Trans. Knowl. Data Eng.,GENETICS-BASED LEARNING OF NEW HEURISTICS - RATIONAL SCHEDULING OF
