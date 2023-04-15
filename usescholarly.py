@@ -1,48 +1,59 @@
 import requests
-import xml.etree.ElementTree as ET
 from fuzzywuzzy import fuzz
 import pandas as pd
 from scholarly import scholarly
 
-# 从DBLP中获取会议的完整名称和年份信息
-
+# 从DBLP中获取会议的完整名称
 
 def get_conference_info(name, year):
-    url = f"https://dblp.org/search/publ/api?q={name} {year}&h=1000&format=xml"
+    name = name.replace(' ', '+')
+    url = f"https://dblp.org/search/publ/api?q={name}+{year}&format=json"
     response = requests.get(url)
-    root = ET.fromstring(response.text)
-    for hit in root.iter('hit'):
-        info = hit.find('info')
-        if info is not None:
-            venue_elem = info.find('venue')
-            year_elem = info.find('year')
-            if venue_elem is not None and year_elem is not None and year_elem.text == year:
-                return venue_elem.text, year
-    return None, None
+    if response is not None:
+        result_json = response.json()
+        if '0' is not result_json['result']['hits']['@total']:
+            publ = result_json['result']['hits']['hit'][0]
+            return publ
+    return None
 
 
 df = pd.read_csv('conferences.csv')
-search_query = scholarly.search_pubs('unlearn')
+urls = df['url'].values
+select_conf = []
 
-with open('result.csv', 'w') as f:
+# 解析URL中的会议和子会议缩写
+for url in urls:
+    url_parts = url.split('/')
+    for part in url_parts:
+        if part == 'db':
+            conf_abbr = url_parts[url_parts.index(part) + 1]
+            subconf_abbr = url_parts[url_parts.index(part) + 2]
+            select_conf.append([conf_abbr, subconf_abbr])
+            break
+
+search_query = scholarly.search_pubs('unlearn')
+result = []
+
+with open('result_scholarly.csv', 'w') as f:
     for pub in search_query:
-        venue = pub['bib']['venue']
         year = pub['bib']['pub_year']
-        full_name = ''
-        # 首先尝试精确匹配
-        if venue in df['full_name'].values:
-            full_name = df.loc[df['full_name'] == venue, 'full_name'].iloc[0]
-        else:
-            # 如果无法精确匹配，则从DBLP中获取完整的会议名称和年份信息
-            abbr = venue.split()[-1]
-            dbpl_name, dbpl_year = get_conference_info(abbr, year)
-            # 使用模糊匹配算法匹配完整的会议名称
-            if dbpl_name is not None and dbpl_year is not None:
-                max_similarity = 0
-                for name in df['full_name'].values:
-                    similarity = fuzz.token_set_ratio(dbpl_name, name)
-                    if similarity > max_similarity:
-                        max_similarity = similarity
-                        full_name = name
-        if full_name:
-            f.write(f"{pub['bib']['title']},{full_name},{year}\n")
+        title = pub['bib']['title']
+        venue = pub['bib']['venue']
+        choose = False
+        print(title, year, venue)
+        dblp_info = get_conference_info(title, year)
+        if dblp_info is None:
+            continue
+        key_parts = dblp_info['info']['key'].split('/')
+        conf_abbr = key_parts[0]
+        subconf_abbr = key_parts[1]
+        # if match select conf
+        if [conf_abbr, subconf_abbr] in select_conf:
+            result.append([title, dblp_info['info']['year'], subconf_abbr])
+            choose = True
+            venue = dblp_info['info']['venue']
+        if choose:
+            f.write(f"{year},{venue},{title}\n")
+            # flush
+            f.flush()
+

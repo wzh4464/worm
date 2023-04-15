@@ -1,0 +1,21 @@
+2021,NeurIPS,Remember what you want to forget: Algorithms for machine unlearning
+2015,IEEE Symposium on Security and Privacy,Towards making systems forget with machine unlearning
+2020,NeurIPS,Variational bayesian unlearning
+2019,CCS,Lifelong anomaly detection through unlearning
+2021,ICML,Machine unlearning for random forests
+2022,USENIX Security Symposium,On the necessity of auditable algorithmic definitions for machine unlearning
+2021,SIGMOD Conference,Hedgecut: Maintaining randomised trees for low-latency machine unlearning
+2022,SIGIR,Recommendation unlearning
+2022,CCS,Graph unlearning
+2022,CVPR,Deep unlearning via randomized conditionally independent hessians
+2022,CVPR Workshops,Efficient two-stage model retraining for machine unlearning
+2022,AAAI,Hard to forget: Poisoning attacks on certified machine unlearning
+2018,AsiaCCS,Efficient repair of polluted machine learning systems via causal unlearning
+2022,WWW,Federated unlearning via class-discriminative pruning
+2018,KDD,Unlearn what you have learned: Adaptive crowd teaching with exponentially decayed memory learners
+2022,SIGIR,Unlearning Protected User Attributes in Recommendations with Adversarial Training
+2020,ACL,From SPMRL to NMRL: What did we learn (and unlearn) in a decade of parsing morphologically-rich languages (MRLs)?
+2013,IJCAI,Unlearning from demonstration
+2010,ICML,The margin perceptron with unlearning
+2000,NIPS,Incremental and decremental support vector machine learning
+1995,NIPS,Some results on convergent unlearning algorithm
