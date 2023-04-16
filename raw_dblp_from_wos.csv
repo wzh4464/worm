@@ -1,0 +1,226 @@
+title,year,conf_abbr,subconf_abbr
+Compressed Particle-Based Federated Bayesian Learning and Unlearning,2023,journals,icl
+Robust Deep Reinforcement Learning Scheduling via Weight Anchoring,2023,journals,icl
+Locally Weighted Learning Robot Control With Improved Parameter,2022,journals,tie
+Motion Learning and Rapid Generalization for Musculoskeletal Systems,2022,journals,tamd
+Domain Adversarial Neural Network-Based Intrusion Detection System for,2022,journals,icl
+UNICON: Uncertainty-Conditioned Policy for Robust Behavior in Unfamiliar,2022,journals,ral
+Certifiable Unlearning Pipelines for Logistic Regression: An,2022,journals,make
+Federated Unlearning: Guarantee the Right of Clients to Forget,2022,journals,network
+Label-only membership inference attacks on machine unlearning without,2022,journals,ijis
+Active forgetting via influence estimation for neural networks,2022,journals,ijis
+Machine unlearning: linear filtration for logit-based classifiers,2022,journals,ml
+Equity-based CS Case Study: An Approach to Exploring White Teachers',2022,journals,jeric
+Spatio-Temporally Efficient Coding Assigns Functions to Hierarchical,2022,journals,ficn
+An adaptive estimation method with exploration and exploitation modes,2022,journals,pr
+Rejecting Novel Motions in High-Density Myoelectric Pattern Recognition,2022,journals,finr
+Separated by a Common Language: How the Nature of Code Differences,2022,journals,mansci
+Near-Optimal Task Selection for Meta-Learning with Mutual Information,2022,conf,aistats
+Sensory-Motor Learning for Simultaneous Control of Motion and Force:,2022,conf,sii
+Efficient Two-stage Model Retraining for Machine Unlearning,2022,conf,cvpr
+FP2-MIA: A Membership Inference Attack Free of Posterior Probability in,2022,conf,provsec
+Hard to Forget: Poisoning Attacks on Certified Machine Unlearning,2022,conf,aaai
+Modeling Fabric-Type Actuator Using Point Clouds by Deep Learning,2022,journals,access
+Gradual and Tolerant Programming for Novices,2022,conf,educon
+Strategies for Working Remotely: Responding to Pandemic-Driven Change,2022,conf,hci
+Tracking Untrained Objects Based On Optical Flow Approach,2022,conf,bigcomp
+Poison Forensics: Traceback of Data Poisoning Attacks in Neural Networks,2022,conf,uss
+Unrolling SGD: Understanding Factors Influencing Machine Unlearning,2022,conf,eurosp
+On the Necessity of Auditable Algorithmic Definitions for Machine,2022,conf,uss
+Federated Unlearning via Class-Discriminative Pruning,2022,conf,www
+Reinforcement Learning-Based Composite Controller for Cable-Driven,2022,journals,access
+Endogenous growth model with Bayesian learning and technology selection,2021,journals,mss
+Antenna Impedance Matching Using Deep Learning,2021,journals,sensors
+Detection and Segmentation of Unlearned Objects in Unknown Environment,2021,journals,tii
+Comparison of domain adaptation techniques for white matter,2021,journals,mia
+Emergence of Content-Agnostic Information Processing by a Robot Using,2021,journals,neco
+Toward Long-Term FMG Model-Based Estimation of Applied Hand Force in,2021,journals,thms
+The functional role of sequentially neuromodulated synaptic plasticity,2021,journals,ploscb
+Evaluation Metrics for Conditional Image Generation,2021,journals,ijcv
+A risk-averse optimization approach to human-robot collaboration in,2021,journals,cea
+A boosted SVM classifier trained by incremental learning and decremental,2021,journals,eswa
+Deep learning-based unlearning of dataset bias for MRI harmonisation and,2021,journals,neuroimage
+Coded Machine Unlearning,2021,journals,access
+Predicting Power Density of Array Antenna in mmWave Applications With,2021,journals,access
+Machine Unlearning for Random Forests,2021,conf,icml
+When Machine Unlearning Jeopardizes Privacy,2021,conf,ccs
+Class Clown: Data Redaction in Machine Unlearning at Enterprise Scale,2021,conf,icores
+Amnesiac Machine Learning,2021,conf,aaai
+Reduce the Difficulty of Incremental Learning With Self-Supervised,2021,journals,access
+Estimation of Affective State based on Keystroke and Typing Vibration,2021,conf,biostec
+FedEraser: Enabling Efficient Client-Level Data Removal from Federated,2021,conf,iwqos
+Route optimization for autonomous bulldozer by distributed deep,2021,conf,icmech
+HEDGECUT: Maintaining Randomised Trees for Low-Latency Machine,2021,conf,sigmod
+Compositionality of Linearly Solvable Optimal Control in Networked,2021,conf,amcc
+Enhancing network modularity to mitigate catastrophic forgetting,2020,journals,ans
+Timescales of motor memory formation in dual-adaptation,2020,journals,ploscb
+ASR-Adaptive Similarity-Based Regressor for Uplink Data Rate Estimation,2020,journals,jsac
+Fault Diagnosis in Photovoltaic Arrays Using GBSSL Method and Proposing,2020,journals,tii
+"Organisational unlearning, relearning and strategic flexibility: from",2020,journals,taasm
+A multi-population differential evolution algorithm based on cellular,2020,journals,asc
+Invertible generative models for inverse problems: mitigating,2020,conf,icml
+Unlearning Scanner Bias for MRI Harmonisation in Medical Image,2020,conf,miua
+Visualization of Focal Cues for Visuomotor Coordination by,2020,conf,sii
+Privacy Enhanced Multimodal Neural Representations for Emotion,2020,conf,aaai
+Latent space decomposition into task-specific and domain-specific,2020,conf,ijcnn
+Spatio-Temporal Memory for Navigation in a Mushroom Body Model,2020,conf,lm
+A Pilot Study on Falling-Risk Detection Method Based on Postural,2019,journals,sensors
+Recognizing learning emotion based on convolutional neural networks and,2019,journals,asc
+A myoelectric prosthetic hand with muscle synergy-based motion,2019,journals,scirobotics
+Unlearning and forgetting in organizations: a systematic review of,2019,journals,jkm
+Dreaming neural networks: Forgetting spurious memories and reinforcing,2019,journals,nn
+Towards Effective Entity Extraction of Scientific Documents using,2019,journals,itiis
+Lifelong Anomaly Detection Through Unlearning,2019,conf,ccs
+Are there typological characteristics of individual unlearning?,2019,conf,hicss
+Image Watermarking Technique Using Embedder and Extractor Neural,2019,journals,ieicet
+Electroforming-free BiFeO3 switches for neuromorphic computing,2019,conf,icecsys
+Learning Not to Learn: Training Deep Neural Networks with Biased Data,2019,conf,cvpr
+Fake News Detection System using Article Abstraction,2019,conf,jcsse
+Digital Twins in eHealth - Prospects and Challenges Focussing on,2019,conf,ice-itmc
+An Analysis of Influence of Emoticons on Affective Impressions Feeling,2019,conf,iiwas
+Walking gait event detection based on electromyography signals using,2019,journals,bspc
+Success/Failure Identification of Skill Movement by Neural Network Using,2019,conf,iecon
+Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural,2019,conf,sp
+A new mechanical approach to handle generalized Hopfield neural networks,2018,journals,nn
+Learning to Achieve Different Levels of Adaptability for Human-Robot,2018,journals,tamd
+Acquisition of Viewpoint Transformation and Action Mappings via Sequence,2018,journals,finr
+Learning evolving T-S fuzzy systems with both local and global accuracy,2018,journals,asc
+Auditory prediction cues motor preparation in the absence of movements,2018,journals,neuroimage
+How stimulation frequency and intensity impact on the long-lasting,2018,journals,ploscb
+A Fuzzy Restricted Boltzmann Machine: Novel Learning Algorithms Based on,2018,journals,tfs
+Efficient Repair of Polluted Machine Learning Systems via Causal,2018,conf,ccs
+An exploration of unlearning of practicing civil engineers,2018,conf,fie
+3D HUMAN POSE ESTIMATION USING STOCHASTIC OPTIMIZATION IN REAL TIME,2018,conf,icip
+Top View Person Detection and Counting for Low Compute Embedded,2018,conf,icvip
+Type-2 Fuzzy Logic Induced Gesture Recognition for Robot Task Planning,2018,conf,ssci
+Learning in a Continuous-Valued Attractor Network,2018,conf,icmla
+Reinforcing Coherence for Sequence to Sequence Model in Dialogue,2018,conf,ijcai
+Coding Tactile Symbols for Phonemic Communication,2018,conf,chi
+New fuzzy method for improving the precision of productivity predictions,2017,journals,nca
+Unlearning before creating new knowledge: A cognitive process,2017,conf,hicss
+Perceptions of successful unlearning in hearing aid practioners,2017,conf,hicss
+Combined algorithm for improvement of fused radar and optical data,2017,journals,jei
+A novel hidden Markov model-based pattern discrimination method with the,2017,conf,embc
+Accelerate Information Interpretation in the Organizational Failure,2017,conf,kes
+Strongly non-U-shaped language learning results by general techniques,2016,journals,iandc
+Embedding a back propagation network into fuzzy c-means for estimating,2016,journals,jaihc
+Novel Discretized Weak Estimators Based on the Principles of the,2016,journals,tcyb
+Incremental maximum margin clustering,2016,journals,paa
+Anti-kindling Induced by Two-Stage Coordinated Reset Stimulation with,2016,journals,ficn
+Matrix approach to decision-theoretic rough sets for evolving data,2016,journals,kbs
+When are Real-Time Feedback Loops Most Valuable? New Insights from,2016,conf,hicss
+Machine Learning and Unlearning to Autonomously Switch Between the,2016,conf,biorob
+Unlearning with technology,2016,journals,ile
+Does Incomplete Unlearning Impact Medical Errors?,2016,conf,hicss
+Un-What?,2016,conf,globecom
+What Have We Unlearned Since the Early Days of the Process Movement?,2016,conf,caise
+A learning algorithm for a Data-driven Controller based on Fictitious,2016,conf,ijcnn
+Unsupervised feature learning based on sparse coding and spectral,2015,journals,iet-cvi
+Semisupervised ECG Ventricular Beat Classification With Novelty,2015,journals,tbe
+Computer System Unlearning in Individuals,2015,conf,hicss
+Digital cultures of commemoration Learning and unlearning history,2015,conf,cscs
+Scale and Occlusion Invariant Tracking-by-Detection,2015,conf,iciap
+Trading model: Self Reorganizing Fuzzy Associative Machine - forecasted,2015,conf,ijcnn
+Neuromimetic Circuits with Synaptic Devices Based on Strongly Correlated,2014,journals,corr
+Border Pairs Method-constructive MLP learning classification algorithm,2014,journals,ijon
+Error Occurrence: Successful versus Unsuccessful Unlearning in,2014,conf,hicss
+Ensemble Learning with Correlation-Based Penalty,2014,conf,dasc
+A Novel Classification Method with Unlearned-class Detection Based on a,2014,conf,smc
+The Synaptic Kernel Adaptation Network,2014,conf,iscas
+Supporting system for the form improvement on rope skipping skill by,2014,conf,iiaiaai
+Consonance and Pitch,2013,journals,iwc
+Memory-limited non-U-shaped learning with solved open problems,2013,journals,tcs
+Live and learn from mistakes: A lightweight system for document,2013,journals,ipm
+Implementing telemedicine technologies through an unlearning context in,2013,journals,behaviourIT
+Mathematical symbols as epistemic actions,2013,journals,synthese
+PREDICTION OF UNLEARNED POSITION BASED ON LOCAL REGRESSION FOR,2013,conf,icassp
+On the Role of Shape Prototypes in Hierarchical Models of Vision,2013,conf,ijcnn
+"Organisational unlearning, organisational flexibility and innovation",2013,journals,ijtm
+Organizational unlearning and organizational relearning: a dynamic,2013,journals,jkm
+A novel approach to accelerate the convergence speed of a stochastic,2012,journals,nca
+Participatory Learning of Propositional Knowledge,2012,journals,tfs
+Decremental Learning of Evolving Fuzzy Inference Systems Using a Sliding,2012,conf,icmla
+Traffic Prediction using a Generic Self-Evolving Takagi-Sugeno-Kang,2012,conf,ijcnn
+Unlearning tinnitus-related cerebral synchrony with acoustic coordinated,2012,journals,bc
+The Content-Based Image Retrieval using the Pulse Coupled Neural Network,2012,conf,ijcnn
+Combined local search strategy for learning in networks of binary,2011,journals,corr
+Loss of skills in coordination games,2011,journals,ijgt
+Balancing technology and physician-patient knowledge through an,2011,journals,ijinfoman
+Malay Isolated Speech Recognition Using Neural Network: A Work in,2011,journals,iajit
+A parallel neural network approach to prediction of Parkinson's Disease,2011,journals,eswa
+Low-cost simulated MIG welding for advancement in technical training,2011,journals,vr
+Unlearning in the BCM Learning Rule for Plastic Self-organization in a,2011,conf,icann
+Tracking the Preferences of Users Using Weak Estimators,2011,conf,ausai
+Online kernel density estimation for interactive learning,2010,journals,ivc
+A BCM Theory of Meta-Plasticity for Online Self-Reorganizing,2010,journals,tnn
+"Learning, unlearning and internationalisation: Evidence from the",2010,journals,ijinfoman
+Solutions to Open Questions for Non-U-Shaped Learning with Memory,2010,conf,alt
+Learning and Unlearning in Hopfield-Like Neural Network Performing,2010,series,sci
+Theoretical Model for Interplay between Some Learning Situations and,2010,conf,its
+Natural Language Processing Neural Network for Recall and Inference,2010,conf,icann
+Recurrent-Neural-Network-Based Boolean Factor Analysis and Its,2009,journals,tnn
+ON-LINE FACE TRACKING UNDER LARGE LIGHTING CONDITION VARIATIONS USING,2009,conf,visapp
+Biologically-inspired robot spatial cognition based on rat,2008,journals,arobots
+"U-shaped, iterative, and iterative-with-counter learning",2008,journals,ml
+Non-U-shaped vacillatory and team learning,2008,journals,jcss
+When unlearning helps,2008,journals,iandc
+Managing change in an information systems development organization:,2008,journals,isj
+"Unlearning as a driver, of sustainable change and innovation: three",2008,journals,ijtm
+Anomaly Detection Support Vector Machine and Its Application to Fault,2008,conf,icdm
+Learning non-homogenous textures and the unlearning problem with,2008,conf,isbi
+Boosting with Cross-Validation Based Feature Selection for Pedestrian,2008,conf,ijcnn
+Results on memory-limited U-shaped learning,2007,journals,iandc
+Learning with incomplete information and the mathematical structure,2007,journals,bc
+Therapeutic rewiring by means of desynchronizing brain stimulation,2007,journals,biosystems
+"U-shaped, iterative, and iterative-with-counter learning",2007,conf,colt
+Learning - unlearning EO for mining high resolution images,2007,conf,igarss
+ENMIM: Energetic Normalized Mutual Information Model for online multiple,2007,conf,acivs
+Optimizing number of hidden neurons in neural networks,2007,conf,aia
+"Comparison of statistical and, shape-based approaches for non-rigid",2006,conf,acivs
+Rotation and size independent face recognition by the spreading,2006,conf,ijcnn
+Long-term anti-kindling effects of desynchronizing brain stimulation: a,2006,journals,bc
+Non U-shaped vacillatory and team learning,2005,conf,alt
+Innovative Learning and Unlearning,2005,conf,icce
+Restoring partly occluded patterns: a neural network model,2005,journals,nn
+Remembrance of things past? The dynamics of organizational forgetting,2004,journals,mansci
+A robust method for distinguishing between learned and spurious,2004,journals,nn
+Task oriented machine-learning and review,2004,conf,icai
+Learning skin distribution using a sparse map,2004,conf,icip
+Unlearning phenomena in co-evolution of non-uniform cellular automata,2004,conf,acri
+Robust Gaussian and non-Gaussian matched subspace detection,2003,journals,tsp
+Gene networks inference using dynamic Bayesian networks,2003,conf,eccb
+Spike-timing-dependent plasticity and relevant mutual information,2003,journals,neco
+Establishing and maintaining perceptual coherence: unimodal and,2003,journals,jphonetics
+Control of consolidation in neural networks: avoiding runaway effects,2003,journals,connection
+Neural reinforcement learning for the control of an autonomous mobile,2003,conf,ra
+Neural Q-learning control architectures for a wall-following behavior,2003,conf,iros
+Multicategory incremental proximal support vector classifiers,2003,conf,kes
+Spike-based synaptic plasticity and the emergence of direction selective,2002,journals,jcns
+On model selection and the disability of neural networks to decompose,2002,journals,corr
+Using localizing learning to improve supervised learning algorithms,2001,journals,tnn
+Direct process estimation from tomographic data using artificial neural,2001,journals,jei
+Experimental evaluation of policies for sequencing the presentation of,2001,journals,tsmc
+Direct process estimation from tomographic data using artificial neural,2001,journals,jei
+Unlearning helps,2000,conf,icalp
+Inhibitory unlearning: a mechanism for increasing the storage capacity,2000,conf,kes
+The evaluating system of human skin surface condition by image,2000,conf,smc
+The consolidation of learning during sleep: comparing the,1999,journals,nn
+Development of fuzzy learning vector quantization neural network for,1999,conf,icannga
+Detection of suspected malignant patterns in three-dimensional magnetic,1998,journals,jdi
+An analytical framework for local feedforward networks,1998,journals,tnn
+Recognition of facial images with low resolution using a Hopfield memory,1998,journals,pr
+Automated extraction of welds from digitized radiographic images based,1997,journals,aai
+Two simple strategies to improve bidirectional associative memory's,1997,conf,icnn
+The work of leadership,1997,conf,hci
+Investigation of the Crick-Mitchison reverse-learning dream sleep,1996,journals,nn
+Improving reinforcement learning in stochastic RAM-based neural networks,1996,journals,npl
+Linear unlearning for cross-validation,1996,journals,adcm
+On-line training of recurrent neural networks with continuous topology,1996,journals,tnn
+Recognition of handwritten musical notes by a modified Neocognitron,1996,journals,mva
+GENETICS-BASED LEARNING OF NEW HEURISTICS - RATIONAL SCHEDULING OF,1995,journals,tkde
+REPRESENTATIONAL TRAJECTORIES IN CONNECTIONIST LEARNING,1994,journals,mima
+THE CONVERGING UNLEARNING ALGORITHM FOR THE HOPFIELD NEURAL NETWORK -,1994,conf,icpr
+UNIVERSALITY OF UNLEARNING,1994,journals,nn
+LOCAL SYNAPTIC LEARNING RULES SUFFICE TO MAXIMIZE MUTUAL INFORMATION IN,1992,journals,neco
+'UNLEARNING',1992,journals,oopsm
+UNLEARNING ARISTOTELIAN PHYSICS - A STUDY OF KNOWLEDGE-BASED LEARNING,1982,journals,cogsci

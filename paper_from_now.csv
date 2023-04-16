@@ -1,0 +1,12 @@
+title,year,conf_abbr,subconf_abbr
+Lifelong anomaly detection through unlearning,2019,conf,ccs
+Machine unlearning for random forests,2021,conf,icml
+Hedgecut: Maintaining randomised trees for low-latency machine unlearning,2021,conf,sigmod
+Efficient two-stage model retraining for machine unlearning,2022,conf,cvpr
+Hard to forget: Poisoning attacks on certified machine unlearning,2022,conf,aaai
+Efficient repair of polluted machine learning systems via causal unlearning,2018,conf,ccs
+Federated unlearning via class-discriminative pruning,2022,conf,www
+Machine Unlearning for Image Retrieval: A Generative Scrubbing Approach,2022,conf,mm
+Unlearning from demonstration,2013,conf,ijcai
+The margin perceptron with unlearning,2010,conf,icml
+Incremental and decremental support vector machine learning,2000,conf,nips

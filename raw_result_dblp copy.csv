@@ -1,0 +1,225 @@
+title,year,class,confedence
+Unlearnable Clusters: Towards Label-agnostic Unlearnable Examples,2023,journals,corr
+Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers,2023,journals,corr
+Learning the Unlearnable: Adversarial Augmentations Suppress Unlearnable Example Attacks,2023,journals,corr
+Markov Chain Monte Carlo-Based Machine Unlearning: Unlearning What Needs to be Forgotten,2022,conf,asiaccs
+Unlearning in crisis: Forces of change in unlearning,2022,conf,hicss
+Markov Chain Monte Carlo-Based Machine Unlearning: Unlearning What Needs to be Forgotten,2022,journals,corr
+Sequential Informed Federated Unlearning: Efficient and Provable Client Unlearning in Federated Optimization,2022,journals,corr
+"Machine Unlearning: Learning, Polluting, and Unlearning for Spam Email",2021,journals,corr
+Let Machines Unlearn - Machine Unlearning and the Right to be Forgotten,2017,conf,amcis
+Compressed Particle-Based Federated Bayesian Learning and Unlearning,2023,journals,icl
+Poison Neural Network-Based mmWave Beam Selection and Detoxification With Machine Unlearning,2023,journals,tcom
+"Introduction to the Minitrack on Innovation in Organizations: Learning, Unlearning, and Intentional Forgetting",2023,conf,hicss
+Machine Unlearning of Features and Labels,2023,conf,ndss
+Federated Unlearning for On-Device Recommendation,2023,conf,wsdm
+Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning,2023,journals,corr
+To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods,2023,journals,corr
+Netflix and Forget: Efficient and Exact Machine Unlearning from Bi-linear Recommendations,2023,journals,corr
+Towards Unbounded Machine Unlearning,2023,journals,corr
+Subspace based Federated Unlearning,2023,journals,corr
+GNNDelete: A General Strategy for Unlearning in Graph Neural Networks,2023,journals,corr
+Unlearnable Graph: Protecting Graphs from Unauthorized Exploitation,2023,journals,corr
+CUDA: Convolution-based Unlearnable Datasets,2023,journals,corr
+Feature Unlearning for Generative Models via Implicit Feedback,2023,journals,corr
+"Learn, Unlearn and Relearn: An Online Learning Paradigm for Deep Neural Networks",2023,journals,corr
+Boundary Unlearning,2023,journals,corr
+Label-only membership inference attacks on machine unlearning without dependence of posteriors,2022,journals,ijis
+The role of absorptive capacity and organizational unlearning in the link between social media and service dominant orientation,2022,journals,jkm
+Certifiable Unlearning Pipelines for Logistic Regression: An Experimental Study,2022,journals,make
+Machine unlearning: linear filtration for logit-based classifiers,2022,journals,ml
+Federated Unlearning: Guarantee the Right of Clients to Forget,2022,journals,network
+Athena: Probabilistic Verification of Machine Unlearning,2022,journals,popets
+Hard to Forget: Poisoning Attacks on Certified Machine Unlearning,2022,conf,aaai
+Near-Optimal Task Selection for Meta-Learning with Mutual Information and Online Variational Bayesian Unlearning,2022,conf,aistats
+Graph Unlearning,2022,conf,ccs
+Continual Learning and Private Unlearning,2022,conf,collas
+Efficient Two-stage Model Retraining for Machine Unlearning,2022,conf,cvpr
+Deep Unlearning via Randomized Conditionally Independent Hessians,2022,conf,cvpr
+Machine Unlearning Method Based On Projection Residual,2022,conf,dsaa
+Unrolling SGD: Understanding Factors Influencing Machine Unlearning,2022,conf,eurosp
+"Introduction to the Minitrack on Innovation in Organizations: Learning, Unlearning, and Intentional Forgetting",2022,conf,hicss
+Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning,2022,conf,iclr
+Adversarial Unlearning of Backdoors via Implicit Hypergradient,2022,conf,iclr
+Skin Deep Unlearning: Artefact and Instrument Debiasing in the Context of Melanoma Classification,2022,conf,icml
+ARCANE: An Efficient Architecture for Exact Machine Unlearning,2022,conf,ijcai
+Backdoor Defense with Machine Unlearning,2022,conf,infocom
+FedHarmony: Unlearning Scanner Bias with Distributed Data,2022,conf,miccai
+Machine Unlearning for Image Retrieval: A Generative Scrubbing Approach,2022,conf,mm
+FP2-MIA: A Membership Inference Attack Free of Posterior Probability in Machine Unlearning,2022,conf,provsec
+Unlearnable Examples: Protecting Open-Source Software from Unauthorized Neural Code Learning,2022,conf,seke
+Unlearning Protected User Attributes in Recommendations with Adversarial Training,2022,conf,sigir
+Dynamically Selected Mixup Machine Unlearning,2022,conf,trustcom
+On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning,2022,conf,uss
+Recommendation Unlearning,2022,conf,www
+Federated Unlearning via Class-Discriminative Pruning,2022,conf,www
+Zero-Shot Machine Unlearning,2022,journals,corr
+Evaluating Inexact Unlearning Requires Revisiting Forgetting,2022,journals,corr
+Recommendation Unlearning,2022,journals,corr
+Federated Unlearning with Knowledge Distillation,2022,journals,corr
+Backdoor Defense with Machine Unlearning,2022,journals,corr
+Vertical Machine Unlearning: Selectively Removing Sensitive Information From Latent Feature Space,2022,journals,corr
+Making Recommender Systems Forget: Learning and Unlearning for Erasable Recommendation,2022,journals,corr
+Continual Learning and Private Unlearning,2022,journals,corr
+Robust Unlearnable Examples: Protecting Data Against Adversarial Learning,2022,journals,corr
+Deep Unlearning via Randomized Conditionally Independent Hessians,2022,journals,corr
+Can Bad Teaching Induce Forgetting? Unlearning in Deep Networks using an Incompetent Teacher,2022,journals,corr
+Property Unlearning: A Defense Strategy Against Property Inference Attacks,2022,journals,corr
+VeriFi: Towards Verifiable Federated Unlearning,2022,journals,corr
+Quark: Controllable Text Generation with Reinforced Unlearning,2022,journals,corr
+Few-Shot Unlearning by Model Inversion,2022,journals,corr
+FedHarmony: Unlearning Scanner Bias with Distributed Data,2022,journals,corr
+Adversarial Unlearning: Reducing Confidence Along Adversarial Directions,2022,journals,corr
+Unlearning Protected User Attributes in Recommendations with Adversarial Training,2022,journals,corr
+Certified Graph Unlearning,2022,journals,corr
+Challenges and Pitfalls of Bayesian Unlearning,2022,journals,corr
+Federated Unlearning: How to Efficiently Erase a Client in FL?,2022,journals,corr
+Evaluating Machine Unlearning via Epistemic Uncertainty,2022,journals,corr
+An Introduction to Machine Unlearning,2022,journals,corr
+A Survey of Machine Unlearning,2022,journals,corr
+Compressed Particle-Based Federated Bayesian Learning and Unlearning,2022,journals,corr
+Machine Unlearning Method Based On Projection Residual,2022,journals,corr
+Knowledge Unlearning for Mitigating Privacy Risks in Language Models,2022,journals,corr
+Deep Regression Unlearning,2022,journals,corr
+Forget Unlearning: Towards True Data-Deletion in Machine Learning,2022,journals,corr
+Verifiable and Provably Secure Machine Unlearning,2022,journals,corr
+Transferable Unlearnable Examples,2022,journals,corr
+Federated Unlearning for On-Device Recommendation,2022,journals,corr
+Proof of Unlearning: Definitions and Instantiation,2022,journals,corr
+LegoNet: A Fast and Exact Unlearning Architecture,2022,journals,corr
+Machine Unlearning of Federated Clusters,2022,journals,corr
+Unlearning Nonlinear Graph Classifiers in the Limited Training Data Regime,2022,journals,corr
+Unsupervised Unlearning of Concept Drift with Autoencoders,2022,journals,corr
+Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks,2022,journals,corr
+Coded Machine Unlearning,2021,journals,access
+A boosted SVM classifier trained by incremental learning and decremental unlearning approach,2021,journals,eswa
+Deep learning-based unlearning of dataset bias for MRI harmonisation and confound removal,2021,journals,neuroimage
+Optical Flow based CNN for detection of unlearnt deepfake manipulations,2021,journals,prl
+Detection and Segmentation of Unlearned Objects in Unknown Environment,2021,journals,tii
+Descent-to-Delete: Gradient-Based Methods for Machine Unlearning,2021,conf,alt
+When Machine Unlearning Jeopardizes Privacy,2021,conf,ccs
+Machine Unlearning via Algorithmic Stability,2021,conf,colt
+Estimating Music Listener&apos;s Emotion from Bio-signals with EEG Denoising and for Unlearned Music Pieces,2021,conf,gcce
+"Introduction to the Minitrack on Innovation in Organizations: Learning, Unlearning, and Intentional Forgetting",2021,conf,hicss
+Machine Unlearning: Its Need and Implementation Strategies,2021,conf,ic3
+Unlearnable Examples: Making Personal Data Unexploitable,2021,conf,iclr
+Machine Unlearning for Random Forests,2021,conf,icml
+Class Clown: Data Redaction in Machine Unlearning at Enterprise Scale,2021,conf,icores
+A Unified PAC-Bayesian Framework for Machine Unlearning via Information Risk Minimization,2021,conf,mlsp
+Adaptive Machine Unlearning,2021,conf,nips
+Remember What You Want to Forget: Algorithms for Machine Unlearning,2021,conf,nips
+HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning,2021,conf,sigmod
+Machine Unlearning,2021,conf,sp
+Bayesian Variational Federated Learning and Unlearning in Decentralized Networks,2021,conf,spawc
+Unlearnable Examples: Making Personal Data Unexploitable,2021,journals,corr
+Machine Unlearning via Algorithmic Stability,2021,journals,corr
+Remember What You Want to Forget: Algorithms for Machine Unlearning,2021,journals,corr
+Graph Unlearning,2021,journals,corr
+Bayesian Variational Federated Learning and Unlearning in Decentralized Networks,2021,journals,corr
+A unified PAC-Bayesian framework for machine unlearning via information risk minimization,2021,journals,corr
+Adaptive Machine Unlearning,2021,journals,corr
+Certifiable Machine Unlearning for Linear Models,2021,journals,corr
+Machine Unlearning of Features and Labels,2021,journals,corr
+Hard to Forget: Poisoning Attacks on Certified Machine Unlearning,2021,journals,corr
+Skin Deep Unlearning: Artefact and Instrument Debiasing in the Context of Melanoma Classification,2021,journals,corr
+Unrolling SGD: Understanding Factors Influencing Machine Unlearning,2021,journals,corr
+Adversarial Unlearning of Backdoors via Implicit Hypergradient,2021,journals,corr
+Federated Unlearning via Class-Discriminative Pruning,2021,journals,corr
+On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning,2021,journals,corr
+Lightweight machine unlearning in neural network,2021,journals,corr
+Fast Yet Effective Machine Unlearning,2021,journals,corr
+Machine unlearning via GAN,2021,journals,corr
+Forget-SVGD: Particle-Based Bayesian Federated Unlearning,2021,journals,corr
+Going Grayscale: The Road to Understanding and Improving Unlearnable Examples,2021,journals,corr
+Organizational unlearning and knowledge transfer in cross-border M&amp;As: the mediating role of knowledge integration from a routine-based view,2020,journals,jkm
+UnLearnerMC: Unsupervised learning of dense depth and camera pose using mask and cooperative loss,2020,journals,kbs
+"Organisational unlearning, relearning and strategic flexibility: from the perspective of updating routines and knowledge",2020,journals,taasm
+From SPMRL to NMRL: What Did We Learn (and Unlearn) in a Decade of Parsing Morphologically-Rich Languages (MRLs)?,2020,conf,acl
+Individual Unlearning as Enabler for Innovation in Agile Information Systems Development,2020,conf,ecis
+"Introduction to the Minitrack on Innovation in Organizations: Learning, Unlearning, and Intentional Forgetting",2020,conf,hicss
+Unlearning Scanner Bias for MRI Harmonisation,2020,conf,miccai
+Unlearning Scanner Bias for MRI Harmonisation in Medical Image Segmentation,2020,conf,miua
+Variational Bayesian Unlearning,2020,conf,nips
+Development of an anomaly detection method with a novel hidden semi-Markov model incorporating unlearned states,2020,conf,sii
+"Deep learning achieves perfect anomaly detection on 108, 308 retinal images including unlearned diseases",2020,journals,corr
+Machine Unlearning: Linear Filtration for Logit-based Classifiers,2020,journals,corr
+Towards Probabilistic Verification of Machine Unlearning,2020,journals,corr
+From SPMRL to NMRL: What Did We Learn (and Unlearn) in a Decade of Parsing Morphologically-Rich Languages (MRLs)?,2020,journals,corr
+When Machine Unlearning Jeopardizes Privacy,2020,journals,corr
+Descent-to-Delete: Gradient-Based Methods for Machine Unlearning,2020,journals,corr
+Variational Bayesian Unlearning,2020,journals,corr
+Class Clown: Data Redaction in Machine Unlearning at Enterprise Scale,2020,journals,corr
+Federated Unlearning,2020,journals,corr
+Coded Machine Unlearning,2020,journals,corr
+Unlearning and forgetting in organizations: a systematic review of literature,2019,journals,jkm
+Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual,2019,conf,acl-deeplo
+Lifelong Anomaly Detection Through Unlearning,2019,conf,ccs
+Are There Typological Characteristics of Individual Unlearning?,2019,conf,hicss
+Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual,2019,journals,corr
+Machine Unlearning,2019,journals,corr
+Investigating the influence of unlearning on knowledge management in sport organizations,2018,journals,kybernetes
+Efficient Repair of Polluted Machine Learning Systems via Causal Unlearning,2018,conf,ccs
+Unlearning to See: Linking the Perceptual and Clinical Effects of Psychedelic Drugs,2018,conf,cogsci
+An exploration of unlearning of practicing civil engineers,2018,conf,fie
+Unlearn What You Have Learned: Adaptive Crowd Teaching with Exponentially Decayed Memory Learners,2018,conf,kdd
+Unlearn What You Have Learned: Adaptive Crowd Teaching with Exponentially Decayed Memory Learners,2018,journals,corr
+Learning to Unlearn: Building Immunity to Dataset Bias in Medical Imaging Studies,2018,journals,corr
+Organizational unlearning and knowledge transfer in cross-border M&amp;A: the roles of routine and knowledge compatibility,2017,journals,jkm
+Self-Previewing Gestures and the Gesture-and-Effect Model: Experimentation with Responsive Visual Feedback for New and Unlearned Interactions,2017,conf,bcshci
+Unlearning before Creating new Knowledge: A Cognitive Process,2017,conf,hicss
+Perceptions of Successful Unlearning in Hearing Aid Practioners,2017,conf,hicss
+Unlearning with technology,2016,journals,ile
+Machine learning and unlearning to autonomously switch between the functions of a myoelectric arm,2016,conf,biorob
+What Have We Unlearned Since the Early Days of the Process Movement?,2016,conf,caise
+Does Incomplete Unlearning Impact Medical Errors?,2016,conf,hicss
+A Simple Unlearning Framework for Online Learning Under Concept Drifts,2016,conf,pakdd
+"Learning, unlearning and relearning - knowledge life cycles in library and information science education",2015,journals,efi
+Digital Cultures of Commemoration: Learning and Unlearning History through Video Games,2015,conf,cscs
+Computer System Unlearning in Individuals,2015,conf,hicss
+Towards Making Systems Forget with Machine Unlearning,2015,conf,sp
+&quot;Smoking Does Not Make You Happy&quot; - Unlearning Smoking Habits Through Mobile Applications on Android OS,2014,conf,csedu
+Error Occurrence: Successful versus Unsuccessful Unlearning in Individuals,2014,conf,hicss
+A novel classification method with unlearned-class detection based on a gaussian mixture model,2014,conf,smc
+Implementing telemedicine technologies through an unlearning context in a homecare setting,2013,journals,behaviourIT
+"Organisational unlearning, organisational flexibility and innovation capability: an empirical study of SMEs in China",2013,journals,ijtm
+Organizational unlearning and organizational relearning: a dynamic process of knowledge management,2013,journals,jkm
+Prediction of unlearned position based on local regression for single-channel talker localization using acoustic transfer function,2013,conf,icassp
+Unlearning from Demonstration,2013,conf,ijcai
+Unlearning tinnitus-related cerebral synchrony with acoustic coordinated reset stimulation: theoretical concept and modelling,2012,journals,bc
+Managing Obsolete Knowledge: towards a Clarified and Contextualized conception of unlearning,2012,conf,ecis
+Balancing technology and physician-patient knowledge through an unlearning context,2011,journals,ijinfoman
+Unlearning in the BCM Learning Rule for Plastic Self-organization in a Multi-modal Architecture,2011,conf,icann
+Learning to Unlearn in Lattices of Concepts: A Case Study in Fluid Construction Grammars,2011,conf,synasc
+"Learning, unlearning and internationalisation: Evidence from the pre-export phase",2010,journals,ijinfoman
+The Margin Perceptron with Unlearning,2010,conf,icml
+Learning and Unlearning in Hopfield-Like Neural Network Performing Boolean Factor Analysis,2010,series,sci
+When unlearning helps,2008,journals,iandc
+Unlearning as a driver of sustainable change and innovation: three Australian case studies,2008,journals,ijtm
+Learning non-homogenous textures and the unlearning problem with application to drusen detection in retinal images,2008,conf,isbi
+On-line Learning of an Unlearnable True Teacher through Mobile Ensemble Teachers,2008,journals,corr
+Fostering innovation by unlearning tacit knowledge,2007,journals,kybernetes
+ENMIM: Energetic Normalized Mutual Information Model for Online Multiple Object Tracking with Unlearned Motions,2007,conf,acivs
+Learning - unlearning for mining high resolution EO images,2007,conf,igarss
+Statistical Mechanics of On-line Learning when a Moving Teacher Goes around an Unlearnable True Teacher,2006,journals,corr
+Innovative Learning and Unlearning,2005,conf,icce
+What can we unlearn from BGP?,2005,conf,mobicom
+Unlearning Phenomena in Co-evolution of Non-uniform Cellular Automata,2004,conf,acri
+IS Process Innovation Unlearning in Organisations,2004,conf,ecis
+Distinguishing Spurious and Nominal Attractors Applying Unlearning to an Asymmetric Neural Network,2002,journals,ijns
+Linking Motor Learning to Function Approximation: Learning in an Unlearnable Force Field,2001,conf,nips
+Learning and Unlearning Mechanisms in Animats and Animals,2000,journals,adb
+Unlearning Helps,2000,conf,icalp
+Inhibitory unlearning: a mechanism for increasing the storage capacity in an attractor network,2000,conf,kes
+The consolidation of learning during sleep: comparing the pseudorehearsal and unlearning accounts,1999,journals,nn
+Two simple strategies to improve bidirectional associative memory&apos;s performance: unlearning and delta rule,1997,conf,icnn
+Linear unlearning for cross-validation,1996,journals,adcm
+On unlearnable problems -or- A model for premature saturation in backpropagation learning,1996,conf,esann
+Convergent Unlearning Algorithm for the Hopfield Neural Network,1995,conf,annes
+Some results on convergent unlearning algorithm,1995,conf,nips
+Universality of unlearning,1994,journals,nn
+The converging unlearning algorithm for the Hopfield neural network: optimal strategy,1994,conf,icpr
+Hebbian Unlearning,1993,conf,ac
+Retraining procedural programmers: a case against &quot;unlearning&quot;,1992,journals,oopsm
+Learning the Unlearnable,1991,journals,neco
+Unlearning Aristotelian Physics: A Study of Knowledge-Based Learning,1982,journals,cogsci
+Machine unlearning,2021,journals,corr

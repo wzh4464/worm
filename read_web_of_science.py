@@ -6,7 +6,7 @@ with open('dataset.txt') as f:
 
 rows = []
 for line in lines:
-    if line.startswith('PT J'):
+    if line.startswith('PT J') or line.startswith('PT C'):
         rows.append({})
     if line.startswith('TI'):
         rows[-1]['title'] = line[3:].strip()
@@ -23,4 +23,4 @@ df = pd.DataFrame(rows)
 # df = df.drop(columns=['date'])  # 去掉date列
 
 # 保存为csv文件
-df.to_csv('output.csv', index=False)
+df.to_csv('web_of_science.csv', index=False)

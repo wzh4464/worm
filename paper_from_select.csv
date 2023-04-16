@@ -1,0 +1,25 @@
+title,year,conf_abbr,subconf_abbr
+Efficient Two-stage Model Retraining for Machine Unlearning,2022,conf,cvpr
+Hard to Forget: Poisoning Attacks on Certified Machine Unlearning,2022,conf,aaai
+Poison Forensics: Traceback of Data Poisoning Attacks in Neural Networks,2022,conf,uss
+On the Necessity of Auditable Algorithmic Definitions for Machine,2022,conf,uss
+Federated Unlearning via Class-Discriminative Pruning,2022,conf,www
+Evaluation Metrics for Conditional Image Generation,2021,journals,ijcv
+Machine Unlearning for Random Forests,2021,conf,icml
+When Machine Unlearning Jeopardizes Privacy,2021,conf,ccs
+Amnesiac Machine Learning,2021,conf,aaai
+HEDGECUT: Maintaining Randomised Trees for Low-Latency Machine,2021,conf,sigmod
+ASR-Adaptive Similarity-Based Regressor for Uplink Data Rate Estimation,2020,journals,jsac
+Invertible generative models for inverse problems: mitigating,2020,conf,icml
+Privacy Enhanced Multimodal Neural Representations for Emotion,2020,conf,aaai
+Lifelong Anomaly Detection Through Unlearning,2019,conf,ccs
+Learning Not to Learn: Training Deep Neural Networks with Biased Data,2019,conf,cvpr
+Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural,2019,conf,sp
+Efficient Repair of Polluted Machine Learning Systems via Causal,2018,conf,ccs
+Reinforcing Coherence for Sequence to Sequence Model in Dialogue,2018,conf,ijcai
+Coding Tactile Symbols for Phonemic Communication,2018,conf,chi
+Strongly non-U-shaped language learning results by general techniques,2016,journals,iandc
+Low-cost simulated MIG welding for advancement in technical training,2011,journals,vr
+When unlearning helps,2008,journals,iandc
+Results on memory-limited U-shaped learning,2007,journals,iandc
+GENETICS-BASED LEARNING OF NEW HEURISTICS - RATIONAL SCHEDULING OF,1995,journals,tkde

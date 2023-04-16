@@ -1,0 +1,24 @@
+Machine unlearning,2021
+Remember what you want to forget: Algorithms for machine unlearning,2021
+Variational bayesian unlearning,2020
+Recommendation unlearning,2022
+Organizational unlearning and knowledge transfer in cross-border M&A: the roles of routine and knowledge compatibility,2017
+Graph unlearning,2022
+Machine unlearning via algorithmic stability,2021
+Unlearning,2012
+Deep unlearning via randomized conditionally independent hessians,2022
+Organizational unlearning and knowledge transfer in cross-border M&As: the mediating role of knowledge integration from a routine-based view,2020
+Backdoor defense with machine unlearning,2022
+Markov chain monte carlo-based machine unlearning: Unlearning what needs to be forgotten,2022
+Unlearn dataset bias in natural language inference by fitting the residual,2019
+Unlearning scanner bias for MRI harmonisation,2020
+Unlearn what you have learned: Adaptive crowd teaching with exponentially decayed memory learners,2018
+Unlearning Protected User Attributes in Recommendations with Adversarial Training,2022
+FedHarmony: unlearning scanner bias with distributed data,2022
+From SPMRL to NMRL: What did we learn (and unlearn) in a decade of parsing morphologically-rich languages (MRLs)?,2020
+Continual Learning and Private Unlearning,2022
+A unified PAC-Bayesian framework for machine unlearning via information risk minimization,2021
+Machine Unlearning Method Based On Projection Residual,2022
+Bayesian variational federated learning and unlearning in decentralized networks,2021
+Unlearning,2005
+Unlearn,2020
